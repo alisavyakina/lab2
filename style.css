@@ -1,0 +1,67 @@
+body {
+    font-family: Bookman old style, sans-serif; 
+    background-color: #8498e3;
+    background-size: cover; 
+    margin: 0;
+}
+
+.content {
+    display: flex; 
+    justify-content: space-between;
+    padding: 20px; 
+    margin: 20px; 
+}
+
+
+.content-left {
+    width: 60%; 
+    background-color: #ffb5b5; 
+    margin-right: 20px;
+    padding: 20px; 
+    border-radius: 10px;
+}
+
+.content-right {
+    width: 40%; 
+    background-color: #ffb5b5;
+    padding: 20px; 
+    border-radius: 10px; 
+}
+
+h1, h2 {
+    color: #5c78db;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.2em;
+    color: #363840;
+    margin: 10px 0;
+}
+
+ul {
+    padding-left: 20px; 
+}
+
+li {
+    font-size: 1.1em; 
+    color: #363840; 
+}
+
+a {
+    color: #5c78db; 
+    font-weight: 500;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%; 
+    height: auto;
+}
